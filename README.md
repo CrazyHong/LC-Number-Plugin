@@ -3,7 +3,7 @@
 <h3>HTML结构:</h3>
 <p>一个液晶数字的html代码结构如下</p>
 
-                            <pre class="brush:html">
+<pre class="brush:html">
  &lt;div class="zero"&gt;
     &lt;span class="d1"&gt;&lt;/span&gt;
     &lt;span class="d2"&gt;&lt;/span&gt;
